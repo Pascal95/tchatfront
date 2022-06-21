@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-image: url('/assets/background.webp');
+}
+
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    margin-top: 4px;
+    padding:10px;
+}
+
+form{
+    padding: 0 3em;
+}
+
+
+.soustitre{
+    font-size: .8em;
+}
+
+    
